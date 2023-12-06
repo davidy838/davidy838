@@ -3,8 +3,7 @@
 Contact Information:
 - **Email:** davidyang838@icloud.com
 - **Phone:** +1 780 993 6889
-- **GitHub:** [GitHub Profile](link_here)
-- **LinkedIn:** [LinkedIn Profile](link_here)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/david-yang-61241b29a)
 
 ## Education
 
