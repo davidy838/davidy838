@@ -13,8 +13,8 @@ Contact Information:
 
 ## Skills
 
-- **Programming Languages:** Python, Java, C++, C, C#, JavaScript, HTML, CSS, Swift
-- **Technologies:** Visual Studio, React.js, Flask, Git, Figma
+- **Programming Languages:** Python, Java, C++, JavaScript, HTML, CSS, Swift
+- **Technologies:** Visual Studio, React.js, Flask, Git, Figma, Tailwind
 
 
 ## Certifications and Achievements
