@@ -2,7 +2,7 @@
 
 Contact Information:
 - **Email:** davidyang838@icloud.com
-- **Phone:** +1 780 993 6889
+- **Phone:** +1 604 7873360
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/david-yang-61241b29a)
 
 ## Education
