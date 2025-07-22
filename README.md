@@ -7,8 +7,8 @@ Contact Information:
 
 ## Education
 
-- **Degree:** Bachelor of Science - Computer Science and Physiology
-- **Duration:** Sep 2021 - Apr 2026
+- **Degree:** Bachelor of Science - Computer Science and Statistics
+- **Duration:** Sep 2021 - Apr 2027
 - **Institution:** University of British Columbia, Vancouver, BC
 
 ## Skills
