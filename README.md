@@ -8,7 +8,7 @@ Contact Information:
 ## Education
 
 - **Degree:** Bachelor of Science - Computer Science and Mathematics
-- **Duration:** Sep 2021 - Apr 2027
+- **Duration:** Apr 2027
 - **Institution:** University of British Columbia, Vancouver, BC
 
 ## Skills
