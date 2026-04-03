@@ -21,5 +21,4 @@ Contact Information:
 
 - **Harvard CS50:** Completed November 2023, Certified by Edx and HarvardX in C+, Python, HTML, CSS, Javascript.
 - **Stanford Algorithms Specialization:** Ongoing, Certified by Stanford Online and Coursera in Algorithms, Hash Table, Graphs, Trees, Data Structures.
-- **Charity Prize @ HackCamps 2023 Hackathon:** Competed against 25+ teams consisting of Vancouver undergraduate students. Organized by NwHacks.
 - **Premier Westbrook Scholarship Nominee | Dean's List:** Top 10% in the Faculty of Science at UBC.
